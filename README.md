@@ -4,7 +4,8 @@
 <h4>Funções</h4>
 <ul>
   <li>Encriptar texto</li>
-  <li>Desencriptar textp</li>
+  <li>Desencriptar texto</li>
+  <li>Copiar texto criptgrafado</li>
 </ul>
 <h4>Tecnologias utilizadas</h4>
 <ul>
