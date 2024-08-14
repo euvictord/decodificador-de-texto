@@ -3,9 +3,9 @@
 <p>Projeto desenvolvido para completar o desafio proposto pelo programa oracle one</p>
 <h4>Funções</h4>
 <ul>
-  <li>Encriptar texto</li>
-  <li>Desencriptar texto</li>
-  <li>Copiar texto criptgrafado</li>
+  <li>Criptografar texto</li>
+  <li>Desencriptografar texto</li>
+  <li>Copiar texto criptografado</li>
 </ul>
 <h4>Tecnologias utilizadas</h4>
 <ul>
