@@ -1,6 +1,6 @@
 <h1>Decodificador de Texto</h1>
 
-<p>Projeto desenvolvido para completar o deseafio proposto pelo programa oracle one</p>
+<p>Projeto desenvolvido para completar o desafio proposto pelo programa oracle one</p>
 <h4>Funções</h4>
 <ul>
   <li>Encriptar texto</li>
