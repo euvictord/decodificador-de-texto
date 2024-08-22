@@ -11,8 +11,8 @@ function criptografar() {
 }
 
 function descriptografar() {
-    let texto = document.getElementById("inputText").value;
-    let textoDescriptografado = texto
+    const texto = document.getElementById("inputText").value;
+    const textoDescriptografado = texto
         .replace(/enter/g, "e")
         .replace(/imes/g, "i")
         .replace(/ai/g, "a")
